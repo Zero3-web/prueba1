@@ -26,7 +26,7 @@ var doc=document,flower=doc.querySelector('.flower'),petalPartMarkup='<div class
     'Eres lo mejor que tengo',
     'Gracias por ser tu',
     '¡Eres increible!',
-    '¡Te extraño mucho 💗 
+    '¡Te extraño mucho 💗' 
   ];
   
   var wrapper = document.querySelector('.wrapper');
@@ -251,5 +251,6 @@ var doc=document,flower=doc.querySelector('.flower'),petalPartMarkup='<div class
     }
   });
 });
+
 
 
