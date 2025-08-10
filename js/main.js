@@ -22,11 +22,10 @@ var doc=document,flower=doc.querySelector('.flower'),petalPartMarkup='<div class
   
   // Followers - Cambiar mensajes
   const messages = [
-    'Esta flor es para ti ',
-    'Eres lo mejor que tengo',
+    'Hola ',
+    '¡Te extraño mucho 💗' ,
     'Gracias por ser tu',
-    '¡Eres increible!',
-    '¡Te extraño mucho 💗' 
+    '¡Eres la mejor!'
   ];
   
   var wrapper = document.querySelector('.wrapper');
@@ -251,6 +250,7 @@ var doc=document,flower=doc.querySelector('.flower'),petalPartMarkup='<div class
     }
   });
 });
+
 
 
 
